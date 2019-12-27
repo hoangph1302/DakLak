@@ -1,0 +1,72 @@
+body
+{
+	background-image: url(rac-vu-tru.jpg);
+	color:yellow;
+	margin:auto;
+	width: 880px;
+}
+
+div.header{
+	background-image: url(background1.jpg);
+	border: 5px solid yellow;
+}
+
+h1,h2{
+	color:yellow;
+	text-align: center;
+	font-family: :times new roman;
+	text-transform: uppercase;
+}
+
+h3{
+	text-align: right;
+	text-transform:capitalize;
+	font-style:italic;
+	font-family: comic sans ms;
+}
+div.menu{
+	text-align: center;
+}
+p.baihat{
+	font-size: comic
+
+}
+a{
+	text-decoration: none;
+	color:yellow;
+	target
+}
+a.anh:link,a.anh:visited{
+	background-color: yellow;
+	color:red;
+	padding: 14px 25px;
+	text-decoration: none;
+	display: inline-block;
+}
+a.anh:hover,a.anh:active{
+	background-color: blue;
+}
+div.Box{
+	margin: 0px;
+	border:5px solid yellow;
+	padding: 10px;
+	width: 320px;
+	text-indent: 10px;
+
+}
+a.Face:link, a.Face:visited{
+	background-color: yellow;
+	padding: 14px;
+	text-decoration: none;
+	color:red;
+	text-align: center;
+	display: inline-block;
+}
+a.Face:hover,a.Face:active{
+	background-color: blue;
+}
+#student {
+	font-family: "Trebuchet MS",Arial;
+	border-collapse: collapse;
+
+}
